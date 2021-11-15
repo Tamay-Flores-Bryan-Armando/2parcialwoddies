@@ -1,0 +1,128 @@
+.col-sm-4{
+    margin-top: -104px;
+}
+body{
+    font-family: 'Nunito', sans-serif;
+}
+.header{
+    min-height: 800px;
+    margin-bottom: 120px;
+}
+.container-fluid{
+    margin-left: 704px;
+    margin-top: -66px;
+}
+.row{
+    margin-top: 120px;
+}
+.header-table{
+    width: 630px;
+    height: 800px;
+    background: url(../img/header-table2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    z-index: -1;
+}
+.text-gray-opacity{
+    color: rgba(34,34,34,0.1);
+}
+div.col-sm-6{
+    margin-left: 456px;
+    margin-top: -184px;
+}
+h1{
+    font-size: 66px;
+}
+.header-with-logo{
+    background: url(../img/logito3.jpg);
+    background-repeat: no-repeat;
+    padding-left: 47px;
+    font-size: 37px;
+    margin-top: -167px;
+}
+.container-cuchara4{
+    height: 11px;
+}
+.container-galeria{
+    display: flex;
+    justify-content: space-around;
+    padding: 122px;
+    margin-top: -183px;
+}
+.container-btn{
+    display: flex;
+    margin-top: -74px;
+    justify-content: space-around;   
+}
+.container-foto{
+    display: flex;
+    margin-top: -86px;
+    margin-left: 119px;
+}
+.container-fotos{
+    display: flex;
+    margin-left: 119px;
+    margin-top: 55px;
+}
+.container-juego{
+    display: flex;
+    margin-left: 110px;
+    margin-top: -50px;
+}
+.container-barra{
+    padding: 98px;
+}
+.container-flechitas{
+    text-align: center;
+    margin-left: 350px;
+    margin-top: -62px;
+}
+.container-flechitas2{
+    text-align: center;
+    margin-left: 1076px;
+    margin-top: -41px;
+}
+.container-barracolores{
+    text-align: center;
+    margin-left: 923px;
+    margin-top: -10px;
+}
+.container-fondito{
+    justify-content: center;
+    display: flex;
+    margin-top: -281px;
+}
+.container-hr{
+    padding: 98px;
+    margin-top: -362px;
+}
+.container-logito5{
+    margin-left: 115px;
+    margin-top: -88px;
+}
+.container-palabras{
+    margin-left: 115px;
+    margin-top: 16px;
+}
+.container-palabras2{
+    margin-left: 370px;
+    margin-top: -160px;
+}
+.container-palabras3{
+    margin-left: 510px;
+    margin-top: -160px;
+}
+.container-palabras4{
+    margin-left: 660px;
+    margin-top: -160px;
+}
+.container-palabras5{
+    margin-left: 810px;
+    margin-top: -160px;
+}
+.container-palabras6{
+    margin-left: 552px;
+}
